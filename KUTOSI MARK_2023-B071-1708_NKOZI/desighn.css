@@ -1,0 +1,48 @@
+.body{
+    display: flex;
+    padding: 90px;
+   border: 1px solid black;
+   
+}
+.ol{
+    font-weight: bolder;
+}
+.about{
+    background-color: papayawhip;
+    width: 500px;
+}
+.me{
+    display: flex;
+    justify-content: left;
+    color: brown;
+    padding: 10px;
+
+}
+.s{
+   font-style: italic;
+   text-align: center;
+   font-weight: bold;
+   font-size: xx-large;
+}
+.o{
+    justify-content: center;
+    padding: 70px;
+    text-indent: 20px;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+}
+.lab{
+    padding: 50px; 
+    color: gray;
+}
+.bi-instagram{
+    padding-left: 10px;
+}
+.bi-twitter{
+    padding-left: 10px;
+}
+.bi-tiktok{
+    padding-left: 10px;
+}
